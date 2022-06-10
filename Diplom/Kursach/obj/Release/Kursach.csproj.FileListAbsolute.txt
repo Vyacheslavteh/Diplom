@@ -1,0 +1,15 @@
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\bin\Release\kursdb.mdb
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\bin\Release\Kursach.exe.config
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\bin\Release\Kursach.exe
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\bin\Release\Kursach.pdb
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\obj\Release\Kursach.csproj.AssemblyReference.cache
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\obj\Release\Kursach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\obj\Release\Kursach.addf.resources
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\obj\Release\Kursach.Mainform.resources
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\obj\Release\Kursach.Login.resources
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\obj\Release\Kursach.Properties.Resources.resources
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\obj\Release\Kursach.reg.resources
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\obj\Release\Kursach.csproj.GenerateResource.cache
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\obj\Release\Kursach.csproj.CoreCompileInputs.cache
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\obj\Release\Kursach.exe
+C:\Users\Vyacheslav\source\repos\Kursach\Kursach\obj\Release\Kursach.pdb
